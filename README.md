@@ -1,4 +1,4 @@
-# LLM-Powered-Sentiment-Analysis
+# LLM-Powered-Sentiment-Analysis 
 
 ## Project Overview
 This project performs sentiment analysis using Google Gemini Pro and OpenAI's ChatGPT APIs in Python. It classifies Amazon Alexa customer reviews as positive or negative using LLMs, leveraging zero-shot and few-shot prompting techniques.
